@@ -1,0 +1,2 @@
+# shell
+explorar no linux
